@@ -3,4 +3,7 @@ I have told you
 {
 	in local
 }
+{
+	in GH
+}
 # test
