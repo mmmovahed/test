@@ -4,7 +4,7 @@ I have told you
 	in local and edited in VIM
 }
 {
-	if(in GH)
+	if(in GH edit)
 	{
 	
 	}
